@@ -3,14 +3,14 @@
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Aqsa Umar<aksaumar35@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://www.github.com/Aqsa48"
   },
   "dependencies": {
     "gatsby": "^2.20.12",
     "gatsby-image": "^2.3.1",
-    "gatsby-plugin-feed": "^2.4.1",
+    "gatsby-plugin-feed": "^3.4.1",
     "gatsby-plugin-google-analytics": "^2.2.2",
     "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-plugin-offline": "^3.1.2",
@@ -39,14 +39,12 @@
     "prettier": "^1.19.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/Aqsa48/my-demo-blog"
   },
   "scripts": {
     "build": "gatsby build",
