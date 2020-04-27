@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's blog starter
+My blog starter Demo
 </h1>
 
 ## 🚀 Quick start
@@ -52,3 +52,5 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── package-lock.json
     ├── package.json
     └── README.md
+
+#In process
